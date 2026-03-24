@@ -1,0 +1,20 @@
+{
+  "name": "knowledge-skills",
+  "version": "0.1.0",
+  "description": "Spec-driven development plugin. 9 skills covering the full lifecycle: constitution, plan, spec, clarify, tasks, bootstrap, implement, review, and challenge. Produces structured knowledge files in .knowledge/ that guide AI-driven implementation with deep specs, adversarial review, and context-cloisoned agents.",
+  "author": {
+    "name": "crustacean-dev"
+  },
+  "repository": "https://github.com/crustacean-dev/knowledge-skills",
+  "license": "MIT",
+  "keywords": [
+    "spec-driven-development",
+    "knowledge-files",
+    "constitution",
+    "architecture",
+    "code-review",
+    "adversarial-challenge",
+    "bootstrap",
+    "workflow"
+  ]
+}
