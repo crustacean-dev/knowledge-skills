@@ -9,7 +9,7 @@
   "plugins": [
     {
       "name": "knowledge-skills",
-      "source": ".",
+      "source": "./",
       "description": "Spec-driven development plugin. 9 skills covering the full lifecycle: constitution, plan, spec, clarify, tasks, bootstrap, implement, review, and challenge."
     }
   ]
