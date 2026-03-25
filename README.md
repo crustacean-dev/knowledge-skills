@@ -6,8 +6,11 @@ The plugin produces structured `.knowledge/` files that accumulate project conte
 
 ## Installation
 
-```bash
-claude plugin add crustacean-dev/knowledge-skills
+Add the marketplace, then install the plugin:
+
+```shell
+/plugin marketplace add crustacean-dev/knowledge-skills
+/plugin install knowledge-skills@crustacean-dev
 ```
 
 ## The workflow
